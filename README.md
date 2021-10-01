@@ -12,8 +12,17 @@ This project is to help game developers, start-ups, ... answer the BIG question 
   - [Google Play Store Apps](https://www.kaggle.com/gauthamp10/google-playstore-apps):      645.13 MB   - 24 columns  - 2,312,944 rows
   - [Google Play Store User Review](https://www.kaggle.com/lava18/google-play-store-apps):  7.31 MB     - 5 columns   -  64,296 rows
 
+## File structure:
+- [**Google_Game_Report.pdf**](https://github.com/tamtridung/Google_Game_Data_Analysis/blob/main/Google_Game_Report.pdf): This is the Google Data Studio Report
+- [**Google_Game_Report.pdf**](https://github.com/tamtridung/Google_Game_Data_Analysis/blob/main/data_preprocessing_EDA.ipynb): This notebook contains all steps of Clean Data, EDA, Save Data
+
+## Technologies - Techniques:
+- Pandas, 
+- Matplotlib, Seaborn
+- Python 3.8
+
 ## EDA and Report by Google Data Studio
-I will highlight some key point in this project, you can file more detail in the **pdf file**
+I will highlight some key points in this project, you can find more detail in [**Google_Game_Report.pdf**](https://github.com/tamtridung/Google_Game_Data_Analysis/blob/main/Google_Game_Report.pdf) 
 
 ### Market overal:
 <p align="center">
