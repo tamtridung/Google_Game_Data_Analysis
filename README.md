@@ -14,7 +14,7 @@ This project is to help game developers, start-ups, ... answer the BIG question 
 
 ## File structure:
 - [**Google_Game_Report.pdf**](https://github.com/tamtridung/Google_Game_Data_Analysis/blob/main/Google_Game_Report.pdf): This is the Google Data Studio Report
-- [**Google_Game_Report.pdf**](https://github.com/tamtridung/Google_Game_Data_Analysis/blob/main/data_preprocessing_EDA.ipynb): This notebook contains all steps of Clean Data, EDA, Save Data
+- [**data_preprocessing_EDA.ipynb**](https://github.com/tamtridung/Google_Game_Data_Analysis/blob/main/data_preprocessing_EDA.ipynb): This notebook contains all steps of Clean Data, EDA, Save Data
 
 ## Technologies - Techniques:
 - Pandas, 
