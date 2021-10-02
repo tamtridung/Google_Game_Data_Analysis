@@ -40,6 +40,7 @@ I will highlight some key points in this project, you can find more detail in [*
 
 - In the chart **INSTALL RATE ACROSS CATEGORIES**, we can see, those categories: Action, Simualtion, Racing, Role Playing, Strategy, Music have Install rate bigger than Avg. Install Rate. That mean, those Categories have the most potential to grow.
 - Look at chart **RATING RATE ACROSS CATEGORIES**, Music category got the least rating 4*-5*. So it is not a good place for us to invest.
+- Look at chart **AVERAGE PRICE ACROSS CATEGORIES**, Role Playing is the category has highest average price. So if you want to make money from Purchased Game, you can pay attention to Role Playing category
 - **ACTION - SIMULATION - RACING - ROLE PLAYING - STRATEGY** is the most potential categories
 
 ### Best time to release Game:
@@ -60,4 +61,4 @@ I will highlight some key points in this project, you can find more detail in [*
 
 ## Next Steps
 - Deep dive analysis into 5 categories: **ACTION - SIMULATION - RACING - ROLE PLAYING - STRATEGY**
-- Analysis more in some hug installation game like: PugG, LienMinhHuyenThoai,...
+- Analysis more in some huge installation game like: PugG, LienMinhHuyenThoai,...
